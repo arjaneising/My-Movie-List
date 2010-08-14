@@ -1,0 +1,13 @@
+Changelog of My Movie List
+==========================
+
+
+--- September 14, 2010: v3.1 (Arjan Eising) ---
+* Made login better
+* Cleaned up database files
+* Edit option can be closed
+* Title editor added
+* 
+
+--- April 6, 2010: v3.0 (Arjan Eising) ---
+* Initial release

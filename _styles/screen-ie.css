@@ -1,0 +1,11 @@
+.panel fieldset {
+  margin: 1.6em 0 1.6em;
+  padding: 2em 1.6em 1em;
+  position: relative;
+}
+
+.panel legend {
+  left: 1em;
+  position: absolute;
+  top: -.5em;
+}
